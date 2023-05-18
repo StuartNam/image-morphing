@@ -14,5 +14,6 @@ Not only the shape must be intermediated, but the color too! Color cross-dissolv
 ## 4. Result
 This is the result I achieved. In the result, there is still pepper noise and I am planning to remove it using filters or interpolation in the future.
 ![Alt Text](result.gif)
+
 Have fun!
 Nam Ha
