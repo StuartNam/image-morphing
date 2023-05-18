@@ -12,7 +12,8 @@ Not only the shape must be intermediated, but the color too! Color cross-dissolv
 3. Create in-between frames by finding intermidiate image using image warping and color cross-dissolving on every corresponding regions at different timesteps
 4. Combining all the frames to create the seamless transition.
 ## 4. Result
-This is the result I achieved. In the result, there is still pepper noise and I am planning to remove it using filters or interpolation in the future.
+This is a small .GIF file to illustrate the transition between 3 faces. In the result, there is still pepper noise and I am planning to remove it using filters or interpolation in the future.
+
 ![Alt Text](result.gif)
 
 Have fun!
