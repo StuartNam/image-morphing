@@ -16,4 +16,5 @@ This is the result I achieved. In the result, there is still pepper noise and I 
 ![Alt Text](result.gif)
 
 Have fun!
+
 Nam Ha
